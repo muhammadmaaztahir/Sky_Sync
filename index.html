@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container">
+        <div class="weather_app">
+            <div class="main">
+                <div class="searchbar">
+                    <input type="text" id="cityInput" placeholder="Enter city name">
+                    <button id="searchButton">
+                        <span class="material-symbols-outlined search_btn">
+                            Search
+                        </span></button>
+                </div>
+                <div class="main_weather">
+                    <div class="city_name">
+                        <h1 id="cityName2"><span id="cityName"></span><span id="invalidCityMsg"
+                                style="display:none; color:red;">This
+                                is not a valid city.</span></h1>
+                        <div class="temp">
+                            <h1 id="Temp" class="temp_6">
+                            </h1>
+                            <h1 class="temp_4">°C</h1>
+                        </div>
+                    </div>
+                    <div> <img alt="icon" class="weather-icon" height="156" width="156"> </div>
+                </div>
+                <div class="background_2">
+                    <div class="main_head">
+                        <h2>AIR CONDITIONS</h2>
+                    </div>
+                    <div class="cards">
+                        <div class="card">
+                            <div class="background">
+                                <span class="material-symbols-outlined">
+                                    device_thermostat
+                                </span>
+                                <span class="Feels_like">Feels Like</span>
+                            </div>
+                            <div>
+                                <span>
+                                    <span class="temp_2" id="Feels_like"></span>
+                                    <span class="temp_3">°C</span>
+                                </span>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="background">
+                                <span class="material-symbols-outlined">
+                                    humidity_percentage
+                                </span>
+                                <span>Humidity
+                                </span>
+
+                            </div>
+                            <div>
+                                <span class="temp_2" id="Humidity"></span>
+                                <span class="temp_3">%</span>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="background">
+                                <span class="material-symbols-outlined">
+                                    air
+                                </span>
+                                <span>Wind Speed</span>
+
+                            </div>
+                            <div>
+                                <span class="temp_2" id="Wind_speed"></span>
+                                <span class="temp_5">km/h</span>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="background">
+                                <span style="transform: rotate(90deg);" class="material-symbols-outlined">
+                                    compress
+                                </span>
+                                <span>Pressure</span>
+                            </div>
+                            <div>
+                                <span class="temp_2" id="Pressure"></span>
+                                <span class="temp_5">mb</span>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="background">
+                                <span class="material-symbols-outlined">
+                                    visibility
+                                </span>
+                                <span>Visibility</span>
+                            </div>
+                            <div>
+                                <span class="temp_2" id="Visibility"></span>
+                                <span class="temp_5">km</span>
+
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="background">
+                                <span class="material-symbols-outlined">
+                                    light_mode
+                                </span>
+                                <span>Sunset</span>
+                            </div>
+                            <div>
+                                <span class="temp_2" id="Sunset"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="js/script.js"></script>
+</body>
+
+</html>
