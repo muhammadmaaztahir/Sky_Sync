@@ -1,6 +1,6 @@
-# YOUR_PROJECT_NAME
+# Sky Sync
 
-[![Project GIF](img:src)](LINK_TO_YOUR_PROJECT)
+[![Project GIF](<img src="images/backgroung.jpg" alt="Chat App">)](LINK_TO_YOUR_PROJECT)
 
 ## Description
 
