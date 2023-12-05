@@ -1,10 +1,10 @@
 # Sky Sync
 
-[![Project GIF](<img src="images/backgroung.jpg" alt="Chat App">)](LINK_TO_YOUR_PROJECT)
+<img src="Chat App.png" alt="Chat App">
 
 ## Description
 
-A brief description of your awesome project goes here. Highlight its key features, purpose, and why it's unique.
+It is a realtime Chat Application 
 
 ## Demo
 
