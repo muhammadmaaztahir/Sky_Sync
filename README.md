@@ -4,7 +4,7 @@
 
 ## Description
 
-This Weather App is a simple web-based application that allows users to get real-time weather information for a specific city. Utilizing Visual Crossing Weather API, it provides comprehensive weather details including temperature, humidity, wind speed, and more.
+This Weather App is a simple web-based application that allows users to get real-time weather information for a specific city. Utilizing Visual Crossing Weather API, it provides comprehensive weather details including temperature, humidity, wind speed and more.
 
 ## Features
 
