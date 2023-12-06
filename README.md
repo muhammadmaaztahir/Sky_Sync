@@ -8,17 +8,17 @@ This Weather App is a simple web-based application that allows users to get real
 
 ## Features
 
-- City-based Weather: Enter a city name and get instant weather details.
-- Temperature Display: View the current temperature in Celsius.
-- Detailed Weather Information: Includes humidity, feels-like temperature, pressure, visibility, and sunset time.
-- Weather Icons: Display icons representing the current weather conditions for better visualization.
-- Responsive Design: Works smoothly across various devices.
+- **City-based Weather:** Enter a city name and get instant weather details.
+- **Temperature Display:** View the current temperature in Celsius.
+- **Detailed Weather Information:** Includes humidity, feels-like temperature, pressure, visibility, and sunset time.
+- **Weather Icons:** Display icons representing the current weather conditions for better visualization.
+- **Responsive Design:** Works smoothly across various devices.
 
 ## Technologies Used
 
-- HTML, CSS, JavaScript: Front-end development for the user interface and interactivity.
-- Visual Crossing Weather API: Backend service to fetch real-time weather data.
-- Fetch API: Used to make asynchronous requests to the Weather API.
+- **HTML, CSS, JavaScript:** Front-end development for the user interface and interactivity.
+- **Visual Crossing Weather API:** Backend service to fetch real-time weather data.
+- **Fetch API:** Used to make asynchronous requests to the Weather API.
 
 ## How to Use
 
