@@ -1,4 +1,4 @@
-# Sky Sync
+# Sky sync
 
 <img src="Weather App.jpg" alt="Chat App">
 
