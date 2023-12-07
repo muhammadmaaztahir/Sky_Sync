@@ -29,4 +29,4 @@ This Weather App is a simple web-based application that allows users to get real
 
 ## Demo
 
-Live Demo:  <a href="https://muhammadmaaztahir.github.io/Sky_Sync/">Click here to see Live Demo</a>
+Live Demo:  <a href="https://muhammadmaaztahir.github.io/Sky_sync/">Click here to see Live Demo</a>
