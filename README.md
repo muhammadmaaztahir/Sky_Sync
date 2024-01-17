@@ -1,6 +1,6 @@
 # Sky sync
 
-<img src="Weather App.jpg" alt="Chat App">
+<img src="Weather App.jpg" alt="Weather App">
 
 ## Description
 
